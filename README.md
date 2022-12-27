@@ -1,2 +1,2 @@
 # kurigram_polytechnic
-https://anahasan.github.io/kurigram_polytechnic/
+https://anahasan.github.io/kurigram_polytechnic_institute/
